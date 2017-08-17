@@ -1,15 +1,19 @@
-body
-{
+body {
     background-color: #F4F4F4;
 }
 @font-face {
     font-family: DevNagEnglish;
     src: url("SAMAN___.TTF");
 }
-.TopBar
-{
-    background-color:#AF714B;// #86765A;
+.TopBar {
+    background-color: #387AAC; //#AF714B;
+    // #86765A;
     height: 50px;
+}
+.TopBarlabel {
+    font-family:DevNagEnglish;
+    color:#ffffff;
+    font-size: 12pt;
 }
 .ProductHeading
 {

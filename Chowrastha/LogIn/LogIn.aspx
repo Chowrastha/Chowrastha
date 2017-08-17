@@ -12,6 +12,7 @@
         <div>
         </div>
         <asp:Panel ID="Panel1" runat="server" CssClass="TopBar">
+            <label class="TopBarlabel">Chowrastha</label>
         </asp:Panel>
     </form>
 </body>
