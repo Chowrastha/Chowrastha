@@ -10,10 +10,8 @@ body {
     // #86765A;
     height: 50px;
 }
-.TopBarlabel {
-    font-family:DevNagEnglish;
-    color:#ffffff;
-    font-size: 12pt;
+.ChowrasthaColor {
+    background-color: #387AAC;
 }
 .ProductHeading
 {
